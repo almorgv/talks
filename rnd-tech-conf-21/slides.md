@@ -10,27 +10,73 @@ layout: cover
 # Через тернии к постмодернистскому CI/CD
 
 ---
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
+layout: intro
 ---
 
-asdsad
+# CI/CD - многогранен
 
+Его аспекты затрагивают всех участников разработки
 
 ---
-layout: some
-logoHeader: "https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-amsterdam-with-name.png" 
-eventLogo: "https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-amsterdam-with-name.png" 
-eventUrl: "https://vuejs.amsterdam/" 
-twitter: "@alvaro_code" 
-twitterUrl: "https://twitter.com/alvaro_code"
+
+# Что хочется разработчикам
+
+- Не думать, как собрать и задеплоить код
+- Видеть, когда код не собрался или не задеплоился
+- Знать почему
+
 ---
 
-# test
+# Что хочется девопсам
 
-<br>
+- Понятных и простых пайплайнов
+- Повторяемых билдов
+- Наблюдаемых билдов
+- Легкости внесения изменений
 
-sdfsdf
-sdfsdf
+---
 
-<!-- <LayoutFooter :eventLogo="https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-amsterdam-with-name.png" :eventUrl="https://vuejs.amsterdam/" :twitter="@alvaro_code" :twitterUrl="https://twitter.com/alvaro_code"/> -->
+# Что хочется безопасникам
+
+- Безопасных билдов
+- Безопасной инфраструктуры
+
+---
+
+# Что хочется руководителям
+
+- Метрики билдов
+- Быстроты онбординга нового человека
+
+---
+layout: two-cols
+---
+
+# В чем это заключается
+
+- Автоматизация
+- Наблюдаемость
+- Конвергентность
+- Идемпотентность
+- Детерминизм
+- Безопасность
+- Аудит
+
+::right::
+
+# ⠀
+
+- Automation
+- Observability
+- Convergence
+- Idempotence
+- Determinism
+- Security
+- Audit
+
+---
+
+# Проблема
+
+- Нет CI/CD как такового
+- 

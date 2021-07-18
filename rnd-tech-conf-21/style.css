@@ -1,14 +1,14 @@
 .slidev-layout {
-    font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 .slidev-layout h1 {
-    margin-bottom: 2rem;
+  margin-bottom: 2rem;
 }
 
 .slidev-layout.default ul {
-    height: 50%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }

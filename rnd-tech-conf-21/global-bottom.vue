@@ -1,4 +1,3 @@
-<!-- an example footer for pages -->
 <template>
   <footer
     v-if="$slidev.nav.currentLayout !== 'cover'"

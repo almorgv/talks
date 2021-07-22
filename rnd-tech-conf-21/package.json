@@ -9,7 +9,10 @@
     "@slidev/cli": "^0.22.4",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.12.3"
+    "chart.js": "3.4.1",
+    "chartjs-plugin-datalabels": "2.0.0",
+    "playwright-chromium": "^1.12.3",
+    "vue-chartkick": "1.1.0"
   },
   "name": "rnd-tech-conf-21"
 }

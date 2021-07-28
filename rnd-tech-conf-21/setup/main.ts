@@ -8,7 +8,7 @@ export default defineAppSetup(({ app, router }) => {
     // Chart.register(ChartDataLabels);
     VueChartkick.options = {
         library: {
-            devicePixelRatio: 2,
+            // devicePixelRatio: 2,
             // plugins: {
             //     datalabels: {
             //       backgroundColor: function(context) {

@@ -6,12 +6,12 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.22.4",
+    "@slidev/cli": "^0.22.7",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "chart.js": "3.4.1",
     "chartjs-plugin-datalabels": "2.0.0",
-    "playwright-chromium": "^1.12.3",
+    "playwright-chromium": "^1.13.0",
     "vue-chartkick": "1.1.0"
   },
   "name": "rnd-tech-conf-21"
